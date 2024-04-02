@@ -1,5 +1,5 @@
 openpyxl>=2.5.8
-PyPDF2==1.26.0
+PyPDF2>=2.0
 streamlit==1.0.0
 PyMuPDF==1.18.16
 python-docx==0.8.11
