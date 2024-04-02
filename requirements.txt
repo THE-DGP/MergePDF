@@ -1,6 +1,6 @@
 streamlit
 PyPDF2
-io
+pymupdf
 fitz
 docx
 pandas
